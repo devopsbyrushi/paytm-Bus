@@ -1,0 +1,61 @@
+Hello World
+
+BhZBvbsv
+v
+v
+xc'v nxlb kjbk bxcv
+v
+
+v
+v
+sd
+b
+sdb
+sdb
+
+sd
+
+********************************
+
+Google Drive
+
+1.Gmail account
+2.Drive
+3.Right -click - Folder
+4.Right
+--upload files
+Upload Dir
+
+
+*******************
+
+Github account
+Repositoy
+
+
+Git install 
+uploding code to central repo
+
+3. phases
+
+
+
+ls - listing files
+touch rushi
+touch rushi uma
+
+
+
+
+ERROR:
+DELL@DESKTOP-QFK4SRT MINGW64 /d/PAYTM/Flight-ticket
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+
+
+ERROR2
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
